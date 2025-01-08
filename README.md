@@ -3,6 +3,8 @@
 This is a collection of utilities to solve systems of linear equations. They are written in Python and use numpy and matplotlib.
 Numerous examples are provided.
 
+More details about the algorithm can be found in the Youtube playlist on my channel [Solving System of Linear Equations using Python](https://www.youtube.com/playlist?list=PLWv23ocV_hYYORMAgPh5Ys4dhzZXbfyrw). If you find it useful, please consider subscribing to my channel. 
+
 The following algorithms are available in `utils.py`:
 - `cholesky_decomposition`
 - `crout_decomposition`
